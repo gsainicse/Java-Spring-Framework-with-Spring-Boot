@@ -7,7 +7,7 @@ public class Wrapper1 {
         Integer b= a;  // autoboxing
         String s="17";
 
-        //int newNumber=b;  // auto Unboxing 
+        int newNumber=b;  // auto Unboxing 
         Integer myNum=Integer.parseInt(s);   
         System.out.println(myNum);
 
