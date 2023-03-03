@@ -20,7 +20,9 @@ public class EnumWithSwitch{
                 System.out.println("failed");
                 break;
 
+
             }
+            // in switch we dont need to define the structure of class
 
         }
 }
